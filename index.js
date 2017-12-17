@@ -4,6 +4,8 @@
 var name = "Joe"
 var height = "74"
 
+name = "Riyaad"
+
 console.log("Name:")
 console.log(name)
 
